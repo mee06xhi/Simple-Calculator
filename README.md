@@ -10,6 +10,7 @@
 <li>Clean and simple AWT-based user interface</li>
 
 <h2>🖥️ Screenshots</h2>
+Calculator UI: final calculator/screenshots/ui.png
 
 <h2>🛠️ Technologies Used</h2>
 <li>Java</li>
