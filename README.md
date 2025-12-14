@@ -10,15 +10,13 @@
 <li>Clean and simple AWT-based user interface</li>
 
 <h2>🖥️ Screenshots</h2>
-Calculator UI: final calculator/screenshots/ui.png
-[![Calculator UI](final calculator/screenshots/ui.png)](final calculator/screenshots/ui.png)
 
 <h2>🛠️ Technologies Used</h2>
 <li>Java</li>
 <li>Java AWT</li>
 
 <h2>▶️ How to Run</h2>
-javac calculatorFinal.java
+javac calculatorFinal.java<br>
 java calculatorFinal
 
 <h2>📌 Notes</h2>
