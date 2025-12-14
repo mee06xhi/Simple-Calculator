@@ -11,8 +11,6 @@
 <li>Error handling (divide by zero, invalid expressions)</li>
 <li>Clean and simple AWT-based user interface</li>
 
-<h2>🖥️ Screenshots</h2>
-
 <h2>🛠️ Technologies Used</h2>
 <li>Java</li>
 <li>Java AWT</li>
