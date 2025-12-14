@@ -11,22 +11,15 @@
 
 <h2>🖥️ Screenshots</h2>
 Calculator UI: final calculator/screenshots/ui.png
+[![Calculator UI](final calculator/screenshots/ui.png)](final calculator/screenshots/ui.png)
 
 <h2>🛠️ Technologies Used</h2>
 <li>Java</li>
 <li>Java AWT</li>
-<li>Event Handling (ActionListener, KeyListener, WindowAdapter)</li>
-<li>Regular Expressions</li>
-<li>Stack-based Expression Evaluation (Shunting Yard Algorithm)</li>
 
-<h2>📂 Project Structure</h2>
-
-<h2>🎯 Learning Outcomes</h2>
-<li>Understanding Java AWT components and layouts</li>
-<li>Handling GUI events using listeners</li>
-<li>Managing application state</li>
-<li>Implementing expression parsing and evaluation</li>
-<li>Writing clean, structured, and maintainable Java code</li>
+<h2>▶️ How to Run</h2>
+javac calculatorFinal.java
+java calculatorFinal
 
 <h2>📌 Notes</h2>
 <li>This project intentionally uses AWT instead of Swing to demonstrate core GUI concepts.</li>
