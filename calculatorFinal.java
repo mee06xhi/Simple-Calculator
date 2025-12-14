@@ -87,7 +87,7 @@ public class calculatorFinal extends WindowAdapter implements ActionListener, Ke
     
     //Initializes the calculator application. Creates the frame, display, and all buttons
     public calculatorFinal() {
-        frame = new Frame("Scientific Calculator");
+        frame = new Frame("Simple Calculator");
         frame.setSize(FRAME_WIDTH, FRAME_HEIGHT);  
         frame.setLayout(null);
         frame.setResizable(false);
